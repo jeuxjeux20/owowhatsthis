@@ -19,7 +19,7 @@ frame1 = ttk.Frame(root)
 frame1.pack()
 frame1.config(height = 100, width = 100)
 
-label1= ttk.Label(frame1,text = "Enter the Alarm time :")
+label1= ttk.Label(frame1,text = "Enter the Alarm time:")
 label1.pack()
 
 entry1 = ttk.Entry(frame1, width = 30)
